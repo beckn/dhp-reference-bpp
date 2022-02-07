@@ -1,0 +1,6 @@
+[submodule "Diagnostics-bpp"]
+	path = Diagnostics-bpp
+	url = https://github.com/beckn/dhp-reference-bpp-diagnostics.git
+[submodule "Consultation-bpp"]
+	path = Consultation-bpp
+	url = https://github.com/beckn/dhp-reference-bpp-consultation.git
