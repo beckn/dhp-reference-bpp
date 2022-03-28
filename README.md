@@ -11,4 +11,4 @@
 ## Work queue
 |Release|Start Date|End Date|Status|Delay in Days|REQ|Documentation|Code|Logs
 |-------|----------|--------|------|-------------|---|-------------|----|----
-|0.1.1 |01 Feb 2022|07 Mar 2022|In progress| |[Task List](https://github.com/beckn/dhp-reference-bpp/issues?q=milestone%3A0.1.1+)|[Wiki](https://github.com/beckn/dhp-reference-bpp/wiki)|[Codebase](https://github.com/beckn/dhp-reference-bpp)|[Logs](https://github.com/beckn/dhp-reference-bpp/commits/main)
+|0.1.1 |01 Feb 2022|07 Mar 2022|Completed| |[Task List](https://github.com/beckn/dhp-reference-bpp/issues?q=milestone%3A0.1.1+)|[Wiki](https://github.com/beckn/dhp-reference-bpp/wiki)|[Codebase](https://github.com/beckn/dhp-reference-bpp)|[Logs](https://github.com/beckn/dhp-reference-bpp/commits/main)
